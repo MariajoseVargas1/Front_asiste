@@ -5,8 +5,8 @@ const Formulario_log =() => {
     const{register, handleSubmit}= useForm();
     return <div classcontainer="container"><div class="card">
         <div class="logos">
-        <image class="logo-horizontal" id="web-asiste" src="../resources/images/_logo_asiste_horizontal.png" alt="Logo de asiste con letras horizontales" />
-        <image class="logo-verde" id="web-sena" src="../resources/images/_logo_sena_verde.png" salt="Logo del SENA verde" style="max-width: 8rem;"/>
+        <image class="logo-horizontal" id="web-asiste" src="../images/_logo_asiste_horizontal.png" alt="Logo de asiste con letras horizontales" />
+        <image class="logo-verde" id="web-sena" src="../images/_logo_sena_verde.png" salt="Logo del SENA verde" style="max-width: 8rem;"/>
         </div>
                             
         <h1 class="text-center texto">INGRESO DE USUARIOS REGISTRADOS</h1>
