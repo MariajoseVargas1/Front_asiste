@@ -1,0 +1,44 @@
+container {
+    font-family: 'Poppin', sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+card{
+    position: absolut ;
+    box-shadow: 0 0 10px 5px #b1b0b0;
+    margin-top: 15rem;
+    margin-left: 10%;
+    max-width: 830px;
+    max-height: 50rem;
+    min-width: 40rem ;
+    max-width: 90rem;
+}
+
+olvido{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 19px;
+    color: #39A900;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+button{
+    width: 40%;
+    margin: 50px 23px;
+}
+
+
+logos{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px !important;
+    margin-bottom: 0%;
+}
+
