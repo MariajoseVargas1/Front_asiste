@@ -5,8 +5,8 @@ function Navbar() {
   return (
     <nav>
       Navbar
-      <NavLink to={'/prueba1'}>Prueba1</NavLink>
-      <NavLink to={'/prueba2'}>Prueba2</NavLink>
+      <NavLink to={'/prueba1'}>Inicio</NavLink>
+      <NavLink to={'/prueba2'}>Notificaciones</NavLink>
       <NavLink to={'/prueba3'}>Prueba3</NavLink>
     </nav>
   )
